@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "..\\ballcode"
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"fstream": "cpp",
+			"iostream": "cpp"
+		}
+	}
+}
